@@ -1,7 +1,7 @@
 fx_version 'adamant'
 game 'gta5'
 
-author 'Andzi'
+author 'Nepoznat'
 description 'Babica'
 version '1.6.0'
 
